@@ -12,8 +12,9 @@ Here is the link to the tutorial. [Learn React by Building a Mortgage Calculator
 
 ### Libraries used.
 
--@mui/material 
--@emotion/react 
--@emotion/styled
--chart.js 
--react-chartjs-2
+----------------
+@mui/material   |
+@emotion/react  |
+@emotion/styled |
+chart.js        |
+react-chartjs-2 |
